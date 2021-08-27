@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srokks
 - 👀 I’m interested in Python Programming 
-- 🌱 I’m currently learning Kivy 
+- 🌱 I’m currently learning PyQT 
 
 <!---
 srokks/srokks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
