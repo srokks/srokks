@@ -1,7 +1,7 @@
 <h5 align="left"></tr>Hi 👋, I'm Jarek - @srokks</h5>
 - 👀 I’m interested in Python Programming </br>
 - 🌱 I’m currently learning **PyQt** </br>
-- 🔭 I’m currently working on [simplePMS](https://github.com/srokks/simplePMS)</br>/ The Binding of Isaac mod in lua
+- 🔭 I’m currently working on [simplePMS](https://github.com/srokks/simplePMS)/ The Binding of Isaac mod in lua </br>
 
 
 
