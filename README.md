@@ -1,7 +1,8 @@
 <h5 align="left"></tr>Hi 👋, I'm Jarek - @srokks</h5>
 - 👀 I’m interested in Python Programming </br>
 - 🌱 I’m currently learning **PyQt** </br>
-- 🔭 I’m currently working on [simplePMS](https://github.com/srokks/simplePMS) /The Binding of Isaac mod in lua </br>
+- 🔭 I’m currently working on [coopHUD](https://github.com/srokks/coop_hud) mod for The Bindiong of Isaac and [simplePMS](https://github.com/srokks/simplePMS) </br>
+
 
 
 
